@@ -23,4 +23,4 @@ async function getDeepSeekResponse(prompt) {
     }
 }
 
-getDeepSeekResponse("Explique a Teoria da Relatividade");
+getDeepSeekResponse("Explique o Teorema de Pitágoras");
